@@ -1,0 +1,43 @@
+.cards{
+ padding: 3em;
+ text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: rgb(0, 102, 255);
+}
+img{
+    align-items: center;
+    margin-left: 45%;   
+}
+img:hover{
+    width: 20%;
+    height: 20%;
+    margin-left:40% ;
+}
+a:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:rgb(13, 182, 27);
+}
+#card{
+    font-family: cursive;
+    font-size: medium;
+    font-weight: 100;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 2em;
+}
+.head{
+ text-align: center;
+ font-size: xx-large;
+ font-weight: 400;
+ font-family: cursive;
+ color:rgb(18, 90, 197);
+ word-spacing: 1rem;
+ letter-spacing: 0.4rem;
+}
