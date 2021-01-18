@@ -12,11 +12,7 @@ img{
     align-items: center;
     margin-left: 45%;   
 }
-img:hover{
-    width: 20%;
-    height: 20%;
-    margin-left:40% ;
-}
+
 a:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
