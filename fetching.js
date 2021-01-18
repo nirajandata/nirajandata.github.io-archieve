@@ -8,7 +8,7 @@ async function test(){
        const parag=document.createElement("p");
        anchor.href=i.html_url;
        anchor.textContent=i.name;
-       parag.textContent=i.description
+       parag.textContent=i.description;
        cards.appendChild(anchor);
        cards.appendChild(document.createElement("br"));
        cards.appendChild(parag)
